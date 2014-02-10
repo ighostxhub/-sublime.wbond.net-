@@ -1,0 +1,6 @@
+git init-"Sublime"
+git clone-@https://sublime.wbond.net
+git install clean @new-home.dir:https://github.com/ighostxhub/-sublime.wbond.net-/new/master
+git push -uname -ighostxhub:master
+--echo:ighostxhub -master
+git run cmd -install:sublime
